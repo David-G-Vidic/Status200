@@ -33,12 +33,12 @@ For example: `TurnOffLight-MPC`
 
 ## Contributors
 
-| Name | GitHub | Initials | Role |
-| ---- | ------ | -------- | ---- |
-| David Vidic | [GitHub](https://github.com/David-G-Vidic)  | DV | TBD |
-| Lewis Figueroa | [GitHub](https://github.com/l3wls) | LF | TBD |
-| Mateo Cordeiro | [GitHub](https://github.com/MateoCordeiro) | MC | TBD |
-| Sathvik Potlapalli | [GitHub](https://github.com/Sathvik1500) | SP | TBD |
+| Name | GitHub | Initials |
+| ---- | ------ | -------- |
+| David Vidic | [GitHub](https://github.com/David-G-Vidic)  | DV |
+| Lewis Figueroa | [GitHub](https://github.com/l3wls) | LF |
+| Mateo Cordeiro | [GitHub](https://github.com/MateoCordeiro) | MC |
+| Sathvik Potlapalli | [GitHub](https://github.com/Sathvik1500) | SP |
 
 ## Acknowledgments
 
